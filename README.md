@@ -33,8 +33,6 @@ Project/
 │ └── Employee-Attrition - Employee-Attrition.csv
 └── requirements.txt # Python dependencies
 
-
-
 ---
 
 ## **Dataset**
@@ -65,6 +63,8 @@ python train_performance_model.py
 5) Run Streamlit app:
 streamlit run app.py
 
+---
+
 **Features used**
 1) Attrition prediction:
 
@@ -86,6 +86,8 @@ JobInvolvement
 
 MonthlyIncome
 
+---
+
 **Results & Metrics**
 Random Forest models trained with accuracy & ROC-AUC scores printed in console
 
@@ -94,6 +96,8 @@ Streamlit app displays:
 Whether an employee will likely leave (and probability)
 
 Predicted performance rating
+
+---
 
 **Technologies & Libraries**
 Python
