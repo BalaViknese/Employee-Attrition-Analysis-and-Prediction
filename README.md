@@ -65,7 +65,7 @@ streamlit run app.py
 
 ---
 
-**Features used**
+## **Features used**
 1) Attrition prediction:
 
 Age
@@ -88,7 +88,7 @@ MonthlyIncome
 
 ---
 
-**Results & Metrics**
+## **Results & Metrics**
 Random Forest models trained with accuracy & ROC-AUC scores printed in console
 
 Streamlit app displays:
@@ -99,7 +99,7 @@ Predicted performance rating
 
 ---
 
-**Technologies & Libraries**
+## **Technologies & Libraries**
 Python
 
 pandas
